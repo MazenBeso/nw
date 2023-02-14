@@ -1,0 +1,36 @@
+*{
+    background: fixed;
+    background-color: #104A47;
+} 
+/*
+body{
+    border: #29282A solid 25px;
+    border-radius: 15px;
+    overflow: hidden;
+} */
+
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 155px;
+    border: #869594 solid 1px;
+}
+
+.nav li a{
+    text-decoration: none;
+    color: #FFF
+}
+
+.nav ul li {
+    display: inline;
+    justify-content: space-around;
+    margin: 0 21px;
+}
+
+
+i{
+    display: inline;
+    justify-content: center;
+}
